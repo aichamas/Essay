@@ -1,0 +1,8 @@
+pwd 
+ls 
+cd 
+mkdir 
+ls 
+touch 
+nano 
+
